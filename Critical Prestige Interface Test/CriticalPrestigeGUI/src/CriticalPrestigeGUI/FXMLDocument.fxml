@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.shape.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="700.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="CriticalPrestigeGUI.FXMLDocumentController">
+    <children>
+        
+      <!-- Buttons for player moves --> 
+      <Button fx:id="surrenderButton" layoutX="145.0" layoutY="412.0" prefHeight="26.0" prefWidth="84.0" text="Surrender" />
+      <Button fx:id="doubleButton" layoutX="265.0" layoutY="412.0" prefHeight="26.0" prefWidth="88.0" text="Double" />
+      <Button fx:id="hitButton" layoutX="384.0" layoutY="411.0" onAction="#hitButtonAction" prefHeight="26.0" prefWidth="88.0" text="Hit" />
+        <Label fx:id="test_label" layoutX="384.0" layoutY="450.0" minHeight="16" minWidth="69" />
+      <Button fx:id="standButton" layoutX="508.0" layoutY="412.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="88.0" text="Stand" />
+      <Button fx:id="splitButton" layoutX="630.0" layoutY="409.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="88.0" text="Split" />
+      <Button fx:id="adviceButton" layoutX="757.0" layoutY="409.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="88.0" text="Advice" />
+      
+      
+      <Button layoutX="31.0" layoutY="27.0" mnemonicParsing="false" text="Rules" />
+      <Button layoutX="116.0" layoutY="27.0" mnemonicParsing="false" text="Decks" />
+      
+      <Button layoutX="765.0" layoutY="223.0" mnemonicParsing="false" text="Increase Bet" />
+      <Button layoutX="105.0" layoutY="531.0" mnemonicParsing="false" text="1" />
+      <Button layoutX="200.0" layoutY="531.0" mnemonicParsing="false" text="5" />
+      <Button layoutX="291.0" layoutY="530.0" mnemonicParsing="false" text="10" />
+      <Button layoutX="399.0" layoutY="531.0" mnemonicParsing="false" text="25" />
+      <Button layoutX="508.0" layoutY="530.0" mnemonicParsing="false" text="100" />
+      
+      <Text layoutX="55.0" layoutY="636.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Bankroll" wrappingWidth="54.576141357421875" />
+      <Text layoutX="905.0" layoutY="636.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Win" />
+    </children>
+</AnchorPane>
