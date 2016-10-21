@@ -1,0 +1,11 @@
+ ,8,9,10,11,12,13,14,15,16,17,2_2,3_3,4_4,5_5,6_6,7_7,8_8,9_9,10_10,A_A,A_2,A_3,A_4,A_5,A_6,A_7,A_8,A_9,A_10
+2,H,H,H,H,H,H,H,S,S,S,H,H,H,H,H,H,S,S,S,H,H,H,H,H,H,D,S,S,S
+3,H,H,H,H,H,H,S,S,S,S,H,H,H,H,H,S,S,S,S,H,H,H,H,H,H,S,S,S,S
+4,H,H,H,H,H,H,S,S,S,S,H,S,H,H,H,S,S,S,S,H,H,H,H,H,D,S,S,S,S
+5,H,H,H,H,H,S,S,S,S,S,H,S,H,H,S,S,S,S,S,H,H,H,H,H,H,S,S,S,S
+6,H,H,H,H,H,S,S,S,S,S,S,S,H,H,H,S,S,S,S,H,H,H,H,H,D,S,S,S,S
+7,H,H,H,H,H,H,H,H,H,H,S,S,H,H,H,H,H,S,S,H,H,H,D,D,D,S,S,S,S
+8,H,H,H,H,H,H,H,H,H,S,S,S,H,H,H,H,H,S,S,H,H,H,D,H,D,D,S,S,S
+9,H,H,H,H,H,H,H,H,H,H,H,S,H,H,H,H,H,S,S,H,H,H,H,D,D,D,S,S,S
+10,H,H,H,D,H,H,H,S,S,S,S,H,H,H,H,S,S,S,S,H,H,H,D,D,D,D,S,S,S
+A,H,D,D,H,S,H,S,S,S,S,S,S,H,H,H,S,S,S,S,H,H,D,D,D,D,D,S,S,S
